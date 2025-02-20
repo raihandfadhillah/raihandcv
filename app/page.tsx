@@ -28,7 +28,7 @@ export default function ProfilePage() {
           </div>
           <h1 className="text-2xl font-bold mt-4">Raihand Fadhillah</h1>
           <p className="text-lg opacity-90">
-            Mahasiswa Sistem Informasi Semester 4 di Ma'soem University
+            Mahasiswa Sistem Informasi Semester 4 di Ma&apos;soem University
           </p>
         </div>
 
